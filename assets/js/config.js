@@ -1,8 +1,8 @@
 // Configuración central. NO poner secretos aquí (es público).
 export const SITE = {
-  name: "Nombre de tu recetario",
+  name: "Recetario de n0shell",
   tagline: "Cocina casera contemporánea",
-  logoText: "Nombre de tu recetario",
+  logoText: "Recetario de n0shell",
   baseUrl: "https://n0shell.github.io/recetario",   // dirección pública final, sin barra final
   language: "es"
 };
