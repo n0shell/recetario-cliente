@@ -1,0 +1,28 @@
+{
+  "slug": "receta-de-prueba",
+  "title": "RECETA DE PRUEBA",
+  "description": "PRUEBA",
+  "category": "postres",
+  "status": "published",
+  "prepMinutes": 30,
+  "cookMinutes": 0,
+  "difficulty": "facil",
+  "servings": 4,
+  "cover": "portada-a128a2.webp",
+  "gallery": [],
+  "ingredients": [
+    {
+      "qty": 1,
+      "unit": "PRUEBA",
+      "name": "PRUEBA"
+    }
+  ],
+  "steps": [
+    {
+      "text": "PRUEBA"
+    }
+  ],
+  "tips": [],
+  "createdAt": "2026-11-14T10:21:22.916Z",
+  "updatedAt": "2026-11-14T10:21:40.151Z"
+}

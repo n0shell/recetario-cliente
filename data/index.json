@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-09T12:00:00Z",
+  "updated": "2026-11-14T10:21:45.230Z",
   "categories": [
     {
       "id": "postres",
@@ -21,74 +21,18 @@
   ],
   "recipes": [
     {
-      "slug": "tarta-de-queso",
-      "title": "Tarta de queso cremosa",
-      "description": "Tarta de queso al horno con la superficie tostada y el centro cremoso.",
+      "slug": "receta-de-prueba",
+      "title": "RECETA DE PRUEBA",
+      "description": "PRUEBA",
       "category": "postres",
-      "cover": "portada.svg",
-      "prepMinutes": 15,
-      "cookMinutes": 45,
-      "difficulty": "media",
-      "servings": 8,
-      "createdAt": "2026-10-02T10:00:00Z",
-      "updatedAt": "2026-10-02T10:00:00Z",
-      "demo": true
-    },
-    {
-      "slug": "lentejas-estofadas",
-      "title": "Lentejas estofadas",
-      "description": "Un plato de cuchara sencillo y reconfortante, con verduras y pimentón.",
-      "category": "platos-principales",
-      "cover": "portada.svg",
-      "prepMinutes": 15,
-      "cookMinutes": 45,
+      "cover": "portada-a128a2.webp",
+      "prepMinutes": 30,
+      "cookMinutes": 0,
       "difficulty": "facil",
       "servings": 4,
-      "createdAt": "2026-10-15T10:00:00Z",
-      "updatedAt": "2026-10-15T10:00:00Z",
-      "demo": true
-    },
-    {
-      "slug": "tortilla-de-patatas",
-      "title": "Tortilla de patatas jugosa",
-      "description": "La clásica tortilla con las patatas pochadas lentamente y el centro cuajado a medias.",
-      "category": "platos-principales",
-      "cover": "portada.svg",
-      "prepMinutes": 20,
-      "cookMinutes": 25,
-      "difficulty": "media",
-      "servings": 4,
-      "createdAt": "2026-10-28T10:00:00Z",
-      "updatedAt": "2026-10-28T10:00:00Z",
-      "demo": true
-    },
-    {
-      "slug": "crema-de-calabaza",
-      "title": "Crema de calabaza",
-      "description": "Una crema suave y aterciopelada con calabaza asada y un toque de nuez moscada.",
-      "category": "sopas-y-cremas",
-      "cover": "portada.svg",
-      "prepMinutes": 10,
-      "cookMinutes": 30,
-      "difficulty": "facil",
-      "servings": 4,
-      "createdAt": "2026-11-05T10:00:00Z",
-      "updatedAt": "2026-11-05T10:00:00Z",
-      "demo": true
-    },
-    {
-      "slug": "galletas-de-avena",
-      "title": "Galletas de avena",
-      "description": "Galletas crujientes por fuera y tiernas por dentro, listas en media hora.",
-      "category": "postres",
-      "cover": "portada.svg",
-      "prepMinutes": 15,
-      "cookMinutes": 12,
-      "difficulty": "facil",
-      "servings": 6,
-      "createdAt": "2026-11-08T10:00:00Z",
-      "updatedAt": "2026-11-08T10:00:00Z",
-      "demo": true
+      "createdAt": "2026-11-14T10:21:22.916Z",
+      "updatedAt": "2026-11-14T10:21:40.151Z",
+      "thumb": true
     }
   ]
 }
