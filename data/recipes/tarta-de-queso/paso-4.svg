@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Tarta en el horno">
-<rect width="1200" height="900" fill="#DCC9AE"/>
-<rect y="640" width="1200" height="260" fill="#80634D" opacity=".18"/>
-<circle cx="600" cy="450" r="330" fill="#FFFCF7"/>
-<circle cx="600" cy="450" r="270" fill="none" stroke="#E7DCCB" stroke-width="10"/>
-<circle cx="600" cy="450" r="200" fill="#A7664C"/><circle cx="540" cy="400" r="40" fill="#8A4E37" opacity=".55"/><circle cx="660" cy="500" r="50" fill="#8A4E37" opacity=".55"/><circle cx="600" cy="450" r="30" fill="#E7C38F" opacity=".55"/>
-<text x="1170" y="875" text-anchor="end" font-family="sans-serif" font-size="26" fill="#49382D" opacity=".65">Imagen de demostración</text>
-</svg>
