@@ -3,7 +3,7 @@ export const SITE = {
   name: "Recetario de n0shell",
   tagline: "Cocina casera contemporánea",
   logoText: "Recetario de n0shell",
-  baseUrl: "https://n0shell.github.io/recetario",   // dirección pública final, sin barra final
+  baseUrl: "https://n0shell.github.io/recetario-cliente",   // dirección pública final, sin barra final
   language: "es"
 };
 // Las páginas estáticas de receta (recetas/<slug>/) indican cuántos niveles hay hasta la raíz del sitio.

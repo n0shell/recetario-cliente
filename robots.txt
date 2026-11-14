@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /worker/
 
-Sitemap: https://n0shell.github.io/recetario/sitemap.xml
+Sitemap: https://n0shell.github.io/recetario-cliente/sitemap.xml
