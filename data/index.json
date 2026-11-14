@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-14T11:27:08.393Z",
+  "updated": "2026-11-14T11:27:24.455Z",
   "categories": [
     {
       "id": "postres",
@@ -19,7 +19,7 @@
       "difficulty": "dificil",
       "servings": 1,
       "createdAt": "2026-11-14T11:24:56.700Z",
-      "updatedAt": "2026-11-14T11:27:01.551Z",
+      "updatedAt": "2026-11-14T11:27:21.407Z",
       "thumb": true
     }
   ]
