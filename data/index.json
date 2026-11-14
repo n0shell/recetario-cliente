@@ -1,26 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-11-14T11:27:24.455Z",
+  "updated": "2026-11-14T11:31:02.931Z",
   "categories": [
     {
       "id": "postres",
       "name": "Postres"
     }
   ],
-  "recipes": [
-    {
-      "slug": "prepunon",
-      "title": "PREPUÑON",
-      "description": "PREPUÑON COCIDO",
-      "category": "postres",
-      "cover": "portada-cc1aaa.webp",
-      "prepMinutes": 50,
-      "cookMinutes": 30,
-      "difficulty": "dificil",
-      "servings": 1,
-      "createdAt": "2026-11-14T11:24:56.700Z",
-      "updatedAt": "2026-11-14T11:27:21.407Z",
-      "thumb": true
-    }
-  ]
+  "recipes": []
 }
