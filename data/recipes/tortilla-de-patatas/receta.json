@@ -1,0 +1,64 @@
+{
+  "slug": "tortilla-de-patatas",
+  "title": "Tortilla de patatas jugosa",
+  "description": "La clásica tortilla con las patatas pochadas lentamente y el centro cuajado a medias.",
+  "category": "platos-principales",
+  "status": "published",
+  "demo": true,
+  "createdAt": "2026-10-28T10:00:00Z",
+  "updatedAt": "2026-10-28T10:00:00Z",
+  "prepMinutes": 20,
+  "cookMinutes": 25,
+  "difficulty": "media",
+  "servings": 4,
+  "cover": "portada.svg",
+  "gallery": [],
+  "ingredients": [
+    {
+      "qty": 6,
+      "unit": "",
+      "name": "huevos"
+    },
+    {
+      "qty": 600,
+      "unit": "g",
+      "name": "patatas"
+    },
+    {
+      "qty": 1,
+      "unit": "",
+      "name": "cebolla"
+    },
+    {
+      "qty": 200,
+      "unit": "ml",
+      "name": "aceite de oliva"
+    },
+    {
+      "qty": null,
+      "unit": "",
+      "name": "Sal al gusto"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Pela las patatas, córtalas en láminas finas y sálalas. Corta la cebolla en juliana.",
+      "image": ""
+    },
+    {
+      "text": "Pocha las patatas y la cebolla en el aceite a fuego medio-bajo durante 15 minutos, sin que se doren.",
+      "image": ""
+    },
+    {
+      "text": "Bate los huevos, mézclalos con las patatas escurridas y deja reposar 5 minutos.",
+      "image": ""
+    },
+    {
+      "text": "Cuaja en una sartén antiadherente unos 3 minutos por cada lado, dándole la vuelta con ayuda de un plato.",
+      "image": ""
+    }
+  ],
+  "tips": [
+    "Reserva el aceite sobrante, colado, para otras preparaciones."
+  ]
+}

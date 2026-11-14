@@ -1,0 +1,74 @@
+{
+  "slug": "crema-de-calabaza",
+  "title": "Crema de calabaza",
+  "description": "Una crema suave y aterciopelada con calabaza asada y un toque de nuez moscada.",
+  "category": "sopas-y-cremas",
+  "status": "published",
+  "demo": true,
+  "createdAt": "2026-11-05T10:00:00Z",
+  "updatedAt": "2026-11-05T10:00:00Z",
+  "prepMinutes": 10,
+  "cookMinutes": 30,
+  "difficulty": "facil",
+  "servings": 4,
+  "cover": "portada.svg",
+  "gallery": [],
+  "ingredients": [
+    {
+      "qty": 800,
+      "unit": "g",
+      "name": "calabaza pelada"
+    },
+    {
+      "qty": 1,
+      "unit": "",
+      "name": "puerro"
+    },
+    {
+      "qty": 1,
+      "unit": "",
+      "name": "patata mediana"
+    },
+    {
+      "qty": 750,
+      "unit": "ml",
+      "name": "caldo de verduras"
+    },
+    {
+      "qty": 2,
+      "unit": "cucharadas",
+      "name": "aceite de oliva"
+    },
+    {
+      "qty": 0.5,
+      "unit": "cucharadita",
+      "name": "nuez moscada"
+    },
+    {
+      "qty": null,
+      "unit": "",
+      "name": "Sal y pimienta al gusto"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Trocea la calabaza, la patata y el puerro.",
+      "image": ""
+    },
+    {
+      "text": "Rehoga el puerro en el aceite 5 minutos. Añade la calabaza y la patata y cubre con el caldo.",
+      "image": ""
+    },
+    {
+      "text": "Cuece 25 minutos a fuego medio, hasta que todo esté blando.",
+      "image": ""
+    },
+    {
+      "text": "Tritura hasta obtener una crema fina, añade la nuez moscada y rectifica de sal y pimienta.",
+      "image": ""
+    }
+  ],
+  "tips": [
+    "Para una crema más ligera, sustituye parte del caldo por agua."
+  ]
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Crema de calabaza">
+<rect width="1200" height="900" fill="#E7DCCB"/>
+<rect y="640" width="1200" height="260" fill="#80634D" opacity=".18"/>
+<circle cx="600" cy="450" r="330" fill="#FFFCF7"/>
+<circle cx="600" cy="450" r="270" fill="none" stroke="#E7DCCB" stroke-width="10"/>
+<circle cx="600" cy="450" r="200" fill="#D98A3D"/><circle cx="560" cy="420" r="40" fill="#E8A55E" opacity=".55"/><circle cx="650" cy="500" r="34" fill="#C0722B" opacity=".55"/>
+<text x="1170" y="875" text-anchor="end" font-family="sans-serif" font-size="26" fill="#49382D" opacity=".65">Imagen de demostración</text>
+</svg>

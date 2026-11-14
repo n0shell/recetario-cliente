@@ -1,0 +1,79 @@
+{
+  "slug": "tarta-de-queso",
+  "title": "Tarta de queso cremosa",
+  "description": "Tarta de queso al horno con la superficie tostada y el centro cremoso.",
+  "category": "postres",
+  "status": "published",
+  "demo": true,
+  "createdAt": "2026-10-02T10:00:00Z",
+  "updatedAt": "2026-10-02T10:00:00Z",
+  "prepMinutes": 15,
+  "cookMinutes": 45,
+  "difficulty": "media",
+  "servings": 8,
+  "cover": "portada.svg",
+  "gallery": [
+    {
+      "file": "galeria-1.svg",
+      "caption": "Porción servida con el centro cremoso"
+    }
+  ],
+  "ingredients": [
+    {
+      "qty": 800,
+      "unit": "g",
+      "name": "queso crema"
+    },
+    {
+      "qty": 250,
+      "unit": "g",
+      "name": "azúcar"
+    },
+    {
+      "qty": 5,
+      "unit": "",
+      "name": "huevos"
+    },
+    {
+      "qty": 400,
+      "unit": "ml",
+      "name": "nata para montar"
+    },
+    {
+      "qty": 2,
+      "unit": "cucharadas",
+      "name": "harina de trigo"
+    },
+    {
+      "qty": null,
+      "unit": "",
+      "name": "Sal, una pizca"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Precalienta el horno a 210 °C con calor arriba y abajo. Forra un molde de 22 cm con papel de horno, dejando que sobresalga por los bordes.",
+      "image": ""
+    },
+    {
+      "text": "Bate el queso crema con el azúcar hasta que no queden grumos. Añade los huevos de uno en uno, mezclando solo lo justo.",
+      "image": ""
+    },
+    {
+      "text": "Incorpora la nata, la harina tamizada y la sal. La mezcla quedará bastante líquida; es lo normal.",
+      "image": ""
+    },
+    {
+      "text": "Vierte en el molde y hornea de 40 a 45 minutos, hasta que esté muy dorada por fuera y tiemble ligeramente en el centro.",
+      "image": "paso-4.svg"
+    },
+    {
+      "text": "Deja templar dentro del molde y después enfría en la nevera, como mínimo 4 horas, antes de servir.",
+      "image": ""
+    }
+  ],
+  "tips": [
+    "Saca los ingredientes de la nevera una hora antes para que se integren mejor.",
+    "Se corta más limpia al día siguiente."
+  ]
+}

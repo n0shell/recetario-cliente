@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Recetario · Cocina casera contemporánea</title>
+<meta name="description" content="Recetas caseras paso a paso, con ingredientes ajustables según los comensales.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Recetario · Cocina casera contemporánea">
+<meta property="og:description" content="Recetas caseras paso a paso, con ingredientes ajustables según los comensales.">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; base-uri 'self'; form-action 'self'; object-src 'none'">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:wght@500;600;700&family=Nunito+Sans:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/public.css">
+</head>
+<body>
+<!--site-header--><a class="skip-link" href="#contenido">Saltar al contenido</a>
+<header class="site-header"><div class="container"><a class="logo" href="index.html" aria-label="Recetario, inicio"><span class="logo-name">Recetario</span><span class="logo-tag">Cocina casera contemporánea</span></a><nav class="site-nav" aria-label="Principal"><a href="index.html" aria-current="page">Inicio</a><a href="index.html#recetas">Recetas</a><a href="index.html#categorias">Categorías</a></nav></div></header><!--/site-header-->
+<main id="contenido">
+  <section class="container catalog-head" id="recetas" aria-labelledby="titulo">
+    <h1 id="titulo">Recetas de casa</h1>
+    <form id="search-form" class="toolbar" role="search">
+      <div class="field field-search">
+        <label for="q">Buscar receta</label>
+        <input id="q" type="search" placeholder="Tarta, lentejas, tortilla…" autocomplete="off" maxlength="80">
+      </div>
+      <div class="field field-sort">
+        <label for="sort">Ordenar por</label>
+        <select id="sort">
+          <option value="date">Más recientes</option>
+          <option value="name">Nombre (A-Z)</option>
+        </select>
+      </div>
+    </form>
+    <div id="categorias"><div id="chips" class="chips" role="group" aria-label="Filtrar por categoría"></div></div>
+    <p id="count" class="result-count" role="status" aria-live="polite"></p>
+    <div id="grid" class="grid" aria-busy="true"><div class="card skeleton" aria-hidden="true"><div class="card-media"></div><div class="card-body"><p class="sk-line"></p><p class="sk-line short"></p></div></div><div class="card skeleton" aria-hidden="true"><div class="card-media"></div><div class="card-body"><p class="sk-line"></p><p class="sk-line short"></p></div></div><div class="card skeleton" aria-hidden="true"><div class="card-media"></div><div class="card-body"><p class="sk-line"></p><p class="sk-line short"></p></div></div><div class="card skeleton" aria-hidden="true"><div class="card-media"></div><div class="card-body"><p class="sk-line"></p><p class="sk-line short"></p></div></div><div class="card skeleton" aria-hidden="true"><div class="card-media"></div><div class="card-body"><p class="sk-line"></p><p class="sk-line short"></p></div></div><div class="card skeleton" aria-hidden="true"><div class="card-media"></div><div class="card-body"><p class="sk-line"></p><p class="sk-line short"></p></div></div></div>
+    <noscript><p>Esta web necesita JavaScript para mostrar las recetas.</p></noscript>
+  </section>
+</main>
+<!--site-footer--><footer class="site-footer"><div class="container"><p class="footer-logo">Recetario</p><p>Cocina casera contemporánea</p><p>© 2026 Recetario</p></div></footer><!--/site-footer-->
+<script type="module" src="assets/js/catalog.js"></script>
+</body>
+</html>
