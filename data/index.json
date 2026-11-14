@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-14T10:31:36.619Z",
+  "updated": "2026-11-14T11:27:08.393Z",
   "categories": [
     {
       "id": "postres",
@@ -9,17 +9,17 @@
   ],
   "recipes": [
     {
-      "slug": "receta-de-prueba",
-      "title": "RECETA DE PRUEBA",
-      "description": "PRUEBA",
+      "slug": "prepunon",
+      "title": "PREPUÑON",
+      "description": "PREPUÑON COCIDO",
       "category": "postres",
-      "cover": "portada-a128a2.webp",
-      "prepMinutes": 30,
-      "cookMinutes": 0,
-      "difficulty": "facil",
-      "servings": 4,
-      "createdAt": "2026-11-14T10:21:22.916Z",
-      "updatedAt": "2026-11-14T10:21:40.151Z",
+      "cover": "portada-cc1aaa.webp",
+      "prepMinutes": 50,
+      "cookMinutes": 30,
+      "difficulty": "dificil",
+      "servings": 1,
+      "createdAt": "2026-11-14T11:24:56.700Z",
+      "updatedAt": "2026-11-14T11:27:01.551Z",
       "thumb": true
     }
   ]
