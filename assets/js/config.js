@@ -1,9 +1,9 @@
 // Configuración central. NO poner secretos aquí (es público).
 export const SITE = {
-  name: "Recetario",              // nombre provisional
+  name: "Nombre de tu recetario",
   tagline: "Cocina casera contemporánea",
-  logoText: "Recetario",          // logotipo tipográfico provisional
-  baseUrl: "",                    // URL pública final sin barra final, p. ej. https://usuario.github.io/recetario
+  logoText: "Nombre de tu recetario",
+  baseUrl: "https://n0shell.github.io/recetario",   // dirección pública final, sin barra final
   language: "es"
 };
 // Las páginas estáticas de receta (recetas/<slug>/) indican cuántos niveles hay hasta la raíz del sitio.
