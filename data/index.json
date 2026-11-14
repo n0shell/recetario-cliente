@@ -1,22 +1,10 @@
 {
   "version": 1,
-  "updated": "2026-11-14T10:21:45.230Z",
+  "updated": "2026-11-14T10:31:36.619Z",
   "categories": [
     {
       "id": "postres",
       "name": "Postres"
-    },
-    {
-      "id": "platos-principales",
-      "name": "Platos principales"
-    },
-    {
-      "id": "sopas-y-cremas",
-      "name": "Sopas y cremas"
-    },
-    {
-      "id": "desayunos",
-      "name": "Desayunos"
     }
   ],
   "recipes": [
