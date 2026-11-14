@@ -1,11 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-14T11:31:02.931Z",
-  "categories": [
-    {
-      "id": "postres",
-      "name": "Postres"
-    }
-  ],
+  "updated": "2026-11-14T11:32:23.495Z",
+  "categories": [],
   "recipes": []
 }
