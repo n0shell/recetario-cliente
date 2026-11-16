@@ -1,6 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-11-14T11:32:23.495Z",
-  "categories": [],
+  "updated": "2026-11-16T07:53:56.710Z",
+  "categories": [
+    {
+      "id": "prueba",
+      "name": "prueba"
+    }
+  ],
   "recipes": []
 }
