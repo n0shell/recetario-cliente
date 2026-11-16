@@ -1,0 +1,28 @@
+{
+  "slug": "receta-prueba",
+  "title": "RECETA PRUEBA",
+  "description": "PALACIOS BOLIVIANO",
+  "category": "prueba",
+  "status": "published",
+  "prepMinutes": 40,
+  "cookMinutes": 10,
+  "difficulty": "facil",
+  "servings": 4,
+  "cover": "portada-6aa5ae.webp",
+  "gallery": [],
+  "ingredients": [
+    {
+      "qty": 250,
+      "unit": "kg",
+      "name": "LORZAS DE GOJE"
+    }
+  ],
+  "steps": [
+    {
+      "text": "cOMERSE A BEATRIZ"
+    }
+  ],
+  "tips": [],
+  "createdAt": "2026-11-16T07:52:52.932Z",
+  "updatedAt": "2026-11-16T07:54:14.625Z"
+}

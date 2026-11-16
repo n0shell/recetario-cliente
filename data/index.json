@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated": "2026-11-16T07:54:01.688Z",
+  "updated": "2026-11-16T07:54:19.606Z",
   "categories": [
     {
       "id": "prueba",
       "name": "prueba"
     }
   ],
-  "recipes": []
+  "recipes": [
+    {
+      "slug": "receta-prueba",
+      "title": "RECETA PRUEBA",
+      "description": "PALACIOS BOLIVIANO",
+      "category": "prueba",
+      "cover": "portada-6aa5ae.webp",
+      "prepMinutes": 40,
+      "cookMinutes": 10,
+      "difficulty": "facil",
+      "servings": 4,
+      "createdAt": "2026-11-16T07:52:52.932Z",
+      "updatedAt": "2026-11-16T07:54:14.625Z",
+      "thumb": true
+    }
+  ]
 }
